@@ -1,4 +1,14 @@
 ### Hi there 👋
+Quick update: I would be busy from 8/28 - 12/10/21. Please be patient with email repsonses and give 2-5 business days for a reply.
+
+## 🔭 I’m currently working on ...
+- Digital Image Processor
+- Python Image Processor
+- PyCraft Client
+- pyCraft
+
+## 📫 How to reach me: 
+I can be contacted at hackersoandso@outlook.com
 
 <!--
 **MisterSoandSo/MisterSoandSo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
