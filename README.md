@@ -1,11 +1,6 @@
 ### Hi there 👋
 Quick update: Please be patient with email repsonses and give 2-5 business days for a reply.
 
-## 🔭 I’m currently working on ...
-
-- PyCraft Client
-- pyCraft
-
 ## 📫 How to reach me: 
 I can be contacted at hackersoandso@outlook.com
 
