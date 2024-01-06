@@ -15,7 +15,8 @@ Whether you want to team up, geek out on tech trends, or simply say hi, you can 
 - **Email**: [acso221@outlook.com](mailto:acso221@outlook.com)
 - **LinkedIn**: [Andrew's LinkedIn](https://www.linkedin.com/in/andrew-chiang-so/)
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--
 **MisterSoandSo/MisterSoandSo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
