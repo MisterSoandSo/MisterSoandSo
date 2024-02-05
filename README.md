@@ -4,12 +4,13 @@
 
 <details>
  <summary>Weekly Dev Breakdown</summary>
-  <img src="./media/languages.png" alt="Languages">
+   <img src="https://wakatime.com/share/@MisterSoandSo/4cf7e772-c4e0-48d2-8c98-fd9448e91a0a.svg" height ="400">
 </details>
 
 <details>
  <summary>Operating Systems Uptime Breakdown</summary>
- <img src="./media/operating_sys.png" alt="Languages"> 
+ <img src="https://wakatime.com/share/@MisterSoandSo/2148c33f-61e9-411e-a69a-31c9dd862e58.png" height ="400">
+ 
 </details>
 
 ## 🌐 Let's Connect  📫 
