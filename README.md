@@ -16,11 +16,12 @@
 ## 🌐 Let's Connect  📫 
 
 Whether you want to team up, geek out on tech trends, or simply say hi, you can reach out to me through the following channels:
-
-[![GitHub](media/icons/github.png)](https://github.com/MisterSoandSo)
-[![Webpage](media/icons/webpage.png)](https://mistersoandso.github.io/)
-[![LinkedIn](media/icons/linkedin.png)](https://www.linkedin.com/in/andrew-chiang-so/)
-[![Email](media/icons/email.png)](mailto:acso221@outlook.com)
+<p align="left">
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/MisterSoandSo)
+[![Webpage](https://skillicons.dev/icons?i=html)](https://mistersoandso.github.io/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andrew-chiang-so/)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:acso221@outlook.com)
+</p>
 
 ## My Skills
 
