@@ -21,3 +21,10 @@ Whether you want to team up, geek out on tech trends, or simply say hi, you can 
 [![Webpage](media/icons/webpage.png)](https://mistersoandso.github.io/)
 [![LinkedIn](media/icons/linkedin.png)](https://www.linkedin.com/in/andrew-chiang-so/)
 [![Email](media/icons/email.png)](mailto:acso221@outlook.com)
+
+## My Skills
+
+<p align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,bash,bots,cloudflare,cmake,cpp,css,docker,fastapi,firebase,flask,git,github,githubactions,gitlab,gradle,html,java,js,latex,linux,mysql,nextjs,nodejs,opencv,py,r,raspberrypi,react,regex&perline=10)](https://skillicons.dev)
+</p>
